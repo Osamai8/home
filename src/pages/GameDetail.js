@@ -210,11 +210,11 @@ const Description = styled.div`
     @media (max-width:460px){
         margin: 2rem 0rem;
     }
-    @media (max-width:768px){
+    @media (min-width:462px){
         margin: 3rem 0rem;
     }
     @media (min-width:1024px){
-       p{ font-size:200%;}
+       p{ font-size:130%;}
     }
    
 `;
@@ -230,11 +230,16 @@ const Gallery = styled.div`
     }
     @media (max-width:460px){
         img{
-            height:40vh;
+            height:35vh;
         }
     }
     
-    @media (min-width:768px){
+    @media (min-width:462px){
+        img{
+            height:45vh;
+        }
+    }
+    @media (min-width:760px){
         img{
             height:75vh;
         }

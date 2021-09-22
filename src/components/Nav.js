@@ -29,11 +29,13 @@ const Logo = styled.div`
   font-family:'orbitron';
   background: black;
   color: white;
+  /* z-index:5; */
+  /* position:sticky; */
   @media (max-width:460px){
-      padding:0.5rem 0;
-      h1{font-size:99%}
+      padding:0.6rem 0;
+      h1{font-size:170%}
   }
-  @media (max-width:768px)and(min-width:460px){
+  @media (min-width:460px){
       padding:0.9rem 0;
   }
 `;

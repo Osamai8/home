@@ -48,19 +48,12 @@ const StyledGame = styled.div`
     object-fit: cover;
   }
   @media (max-width:460px){    
-    max-height:30vh;
+    max-height:23vh;
     margin-right: 1rem;
     /* width:50%; */
     img{
       height:25vh;
     }
-  }
-  @media (min-width:461px){
-    min-height:40vh;
-    h3{
-      font-size:130%;
-    }
-    img{height:40vh;}
   }
   @media (max-width:768px){
     min-height:40vh;
@@ -68,6 +61,13 @@ const StyledGame = styled.div`
       font-size:130%;
     }
     img{height:40vh;}
+  }
+  @media (min-width:1024px){
+    min-height:23vh;
+    h3{
+      font-size:130%;
+    }
+    img{height:25vh;}
   }
   
 `;
