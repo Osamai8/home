@@ -10,7 +10,7 @@ const Nav = () => {
 
     const clearSearched = () => {
         dispatch({ type: "CLEAR_SEARCHED" });
-        history.push('/ignite');
+        history.push('/home');
     };
     return (
         <div>

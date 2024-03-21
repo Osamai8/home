@@ -14,7 +14,7 @@ const App = () => {
             <GlobalStyles />
             <Nav />
             <Switch>
-                <Route path='/ignite' exact>
+                <Route path='/home' exact>
                     <Home />
                 </Route>
                 <Route path='/games/:id' >
