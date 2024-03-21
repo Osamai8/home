@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/ignite/static/js/main.014bea67.chunk.js",
+    "main.js.map": "/ignite/static/js/main.014bea67.chunk.js.map",
+    "runtime-main.js": "/ignite/static/js/runtime-main.f4c9591b.js",
+    "runtime-main.js.map": "/ignite/static/js/runtime-main.f4c9591b.js.map",
+    "static/css/2.45c05f3e.chunk.css": "/ignite/static/css/2.45c05f3e.chunk.css",
+    "static/js/2.a5b31b40.chunk.js": "/ignite/static/js/2.a5b31b40.chunk.js",
+    "static/js/2.a5b31b40.chunk.js.map": "/ignite/static/js/2.a5b31b40.chunk.js.map",
+    "static/js/3.421c9795.chunk.js": "/ignite/static/js/3.421c9795.chunk.js",
+    "static/js/3.421c9795.chunk.js.map": "/ignite/static/js/3.421c9795.chunk.js.map",
+    "index.html": "/ignite/index.html",
+    "service-worker.js": "/ignite/service-worker.js",
+    "service-worker.js.map": "/ignite/service-worker.js.map",
+    "static/css/2.45c05f3e.chunk.css.map": "/ignite/static/css/2.45c05f3e.chunk.css.map",
+    "static/js/2.a5b31b40.chunk.js.LICENSE.txt": "/ignite/static/js/2.a5b31b40.chunk.js.LICENSE.txt",
+    "static/media/Yet_Another_Resume.ab9a0394.pdf": "/ignite/static/media/Yet_Another_Resume.ab9a0394.pdf",
+    "static/media/apple.5757c37e.svg": "/ignite/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/ignite/static/media/gamepad.c9269ef5.svg",
+    "static/media/linux.d816c02b.png": "/ignite/static/media/linux.d816c02b.png",
+    "static/media/nintendo.8a981979.svg": "/ignite/static/media/nintendo.8a981979.svg",
+    "static/media/playstation.25b0c183.svg": "/ignite/static/media/playstation.25b0c183.svg",
+    "static/media/steam.de7d8153.svg": "/ignite/static/media/steam.de7d8153.svg",
+    "static/media/xbox.e3cc1e26.svg": "/ignite/static/media/xbox.e3cc1e26.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c9591b.js",
+    "static/css/2.45c05f3e.chunk.css",
+    "static/js/2.a5b31b40.chunk.js",
+    "static/js/main.014bea67.chunk.js"
+  ]
+}
